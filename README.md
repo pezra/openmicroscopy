@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/openmicroscopy/openmicroscopy.png)](http://travis-ci.org/openmicroscopy/openmicroscopy)
 
-For a quick start-up guide, see docs/QUICKSTART.txt
+For a quick start-up guide, see [docs/QUICKSTART.txt](./docs/QUICKSTART.txt).
 
 Full developer documentation is available from http://www.openmicroscopy.org/site/support/omero4/developers/index.html
 
